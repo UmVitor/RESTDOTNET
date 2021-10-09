@@ -21,13 +21,8 @@ namespace REST_API.Controllers
         }
 
         [HttpGet("sum/{firstNumber}/{secondNumber}")]
-        [HttpGet("multiply/{firstNumber}/{secondNumber}")]
-        [HttpGet("divide/{firstNumber}/{secondNumber}")]
-        public IActionResult Get(string firstNumber,string secondNumber)
+        public IActionResult Sum(string firstNumber,string secondNumber)
         {
-            string path = HttpContext.Request.Path;
-            Console.WriteLine(path);
-
             if (IsNumeric(firstNumber) && IsNumeric(secondNumber))
             {
                 var sum = ConvertToDecimal(firstNumber) + ConvertToDecimal(secondNumber);
@@ -37,6 +32,49 @@ namespace REST_API.Controllers
             
             return BadRequest("Invalid Input");
         }
+
+        [HttpGet("Subtract/{firstNumber}/{secondNumber}")]
+        public IActionResult Subtract(string firstNumber, string secondNumber)
+        {
+
+
+            if (IsNumeric(firstNumber) && IsNumeric(secondNumber))
+            {
+                var sum = ConvertToDecimal(firstNumber) - ConvertToDecimal(secondNumber);
+                return Ok(sum.ToString());
+            }
+            //caso funcione a funcao ira retornar uma soma, caso contrario ira retornar um bad request
+
+            return BadRequest("Invalid Input");
+        }
+        [HttpGet("Multiply/{firstNumber}/{secondNumber}")]
+        public IActionResult Multiply(string firstNumber, string secondNumber)
+        {
+
+
+            if (IsNumeric(firstNumber) && IsNumeric(secondNumber))
+            {
+                var sum = ConvertToDecimal(firstNumber) * ConvertToDecimal(secondNumber);
+                return Ok(sum.ToString());
+            }
+            //caso funcione a funcao ira retornar uma soma, caso contrario ira retornar um bad request
+
+            return BadRequest("Invalid Input");
+        }
+        [HttpGet("Mean/{firstNumber}/{secondNumber}")]
+        public IActionResult Mean(string firstNumber, string secondNumber)
+        {
+
+            if (IsNumeric(firstNumber) && IsNumeric(secondNumber))
+            {
+                var sum = (ConvertToDecimal(firstNumber) + ConvertToDecimal(secondNumber))/2;
+                return Ok(sum.ToString("F2",CultureInfo.InvariantCulture));
+            }
+            //caso funcione a funcao ira retornar uma soma, caso contrario ira retornar um bad request
+
+            return BadRequest("Invalid Input");
+        }
+
 
         private decimal ConvertToDecimal(string strNumber)
         {
