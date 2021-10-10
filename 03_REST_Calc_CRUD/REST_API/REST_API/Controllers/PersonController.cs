@@ -1,97 +1,75 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
+using REST_API.Services;
 using System;
 using System.Globalization;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using REST_API.Model;
 
 namespace REST_API.Controllers
 {
     [ApiController]
     [Route("[controller]")]
-    public class CalculatorController : ControllerBase
+    public class PersonController : ControllerBase
     {
        
-        private readonly ILogger<CalculatorController> _logger;
+        private readonly ILogger<PersonController> _logger;
+        
+        private IPersonService _PersonService;
 
-        public CalculatorController(ILogger<CalculatorController> logger)
+        public PersonController(ILogger<PersonController> logger, IPersonService personService)
         {
             _logger = logger;
+            _PersonService = personService;
         }
 
-        [HttpGet("sum/{firstNumber}/{secondNumber}")]
-        public IActionResult Sum(string firstNumber,string secondNumber)
+        [HttpGet()]
+        public IActionResult Get()
         {
-            if (IsNumeric(firstNumber) && IsNumeric(secondNumber))
+            return Ok(_PersonService.FindAll());
+        }
+        [HttpGet("{id}")]
+        public IActionResult Get(long id)
+        {
+            var person = _PersonService.FindById(id);
+            if (person == null)
             {
-                var sum = ConvertToDecimal(firstNumber) + ConvertToDecimal(secondNumber);
-                return Ok(sum.ToString());
+                return NotFound();
             }
-            //caso funcione a funcao ira retornar uma soma, caso contrario ira retornar um bad request
+            return Ok(person);
+        }
+
+        [HttpPost]
+        public IActionResult Post([FromBody] Person person)
+        {
             
-            return BadRequest("Invalid Input");
-        }
-
-        [HttpGet("Subtract/{firstNumber}/{secondNumber}")]
-        public IActionResult Subtract(string firstNumber, string secondNumber)
-        {
-
-
-            if (IsNumeric(firstNumber) && IsNumeric(secondNumber))
+            if (person == null)
             {
-                var sum = ConvertToDecimal(firstNumber) - ConvertToDecimal(secondNumber);
-                return Ok(sum.ToString());
+                return BadRequest();
             }
-            //caso funcione a funcao ira retornar uma soma, caso contrario ira retornar um bad request
-
-            return BadRequest("Invalid Input");
+            return Ok(_PersonService.Create(person));
         }
-        [HttpGet("Multiply/{firstNumber}/{secondNumber}")]
-        public IActionResult Multiply(string firstNumber, string secondNumber)
+        [HttpPut]
+        public IActionResult Put([FromBody] Person person)
         {
 
-
-            if (IsNumeric(firstNumber) && IsNumeric(secondNumber))
+            if (person == null)
             {
-                var sum = ConvertToDecimal(firstNumber) * ConvertToDecimal(secondNumber);
-                return Ok(sum.ToString());
+                return BadRequest();
             }
-            //caso funcione a funcao ira retornar uma soma, caso contrario ira retornar um bad request
-
-            return BadRequest("Invalid Input");
+            return Ok(_PersonService.Update(person));
         }
-        [HttpGet("Mean/{firstNumber}/{secondNumber}")]
-        public IActionResult Mean(string firstNumber, string secondNumber)
+
+        [HttpDelete("{id}")]
+        public IActionResult Delete(long id)
         {
+            _PersonService.Delete(id);
 
-            if (IsNumeric(firstNumber) && IsNumeric(secondNumber))
-            {
-                var sum = (ConvertToDecimal(firstNumber) + ConvertToDecimal(secondNumber))/2;
-                return Ok(sum.ToString("F2",CultureInfo.InvariantCulture));
-            }
-            //caso funcione a funcao ira retornar uma soma, caso contrario ira retornar um bad request
-
-            return BadRequest("Invalid Input");
+            return NoContent();
         }
 
 
-        private decimal ConvertToDecimal(string strNumber)
-        {
-            decimal decimalValue;
-            if(decimal.TryParse(strNumber, out decimalValue))
-            {
-                return decimalValue;
-            }
-            return 0;
-        }
-
-        private bool IsNumeric(string strNumber)
-        {
-            double number;
-            // Checa se a strNumber é numerico, se for retorna true
-            bool isNumber = double.TryParse(strNumber, NumberStyles.Any, NumberFormatInfo.InvariantInfo, out number); 
-            return isNumber;
-        }
     }
 }
