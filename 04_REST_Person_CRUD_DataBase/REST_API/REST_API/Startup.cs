@@ -1,5 +1,6 @@
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
+using Microsoft.EntityFrameworkCore;
 using Microsoft.AspNetCore.HttpsPolicy;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Configuration;
@@ -12,6 +13,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using REST_API.Services;
 using REST_API.Services.Implementations;
+using REST_API.Model.Context;
 
 namespace REST_API
 {
@@ -29,6 +31,15 @@ namespace REST_API
         {
 
             services.AddControllers();
+
+            //create our connection
+            var connection = Configuration["MySQLConnection:MySQLConnectionString"];
+            //Add DBContext
+            
+            services.AddDbContext<MySQLContext>(options => options.UseMySql(connection, 
+                ServerVersion.AutoDetect(connection)));
+
+
 
             //dependence injection
             services.AddScoped<IPersonService, PersonServiceImplementation>();
