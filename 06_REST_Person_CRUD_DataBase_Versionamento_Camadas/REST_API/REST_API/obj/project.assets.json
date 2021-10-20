@@ -687,7 +687,8 @@
   },
   "packageFolders": {
     "C:\\Users\\vitto\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
@@ -699,7 +700,8 @@
       "outputPath": "C:\\Users\\vitto\\Documents\\RESTDOTNET\\06_REST_Person_CRUD_DataBase_Versionamento_Camadas\\REST_API\\REST_API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
         "C:\\Users\\vitto\\AppData\\Roaming\\NuGet\\NuGet.Config",

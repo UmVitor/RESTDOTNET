@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "WD/OXHZc7v/Oe5ziYbLfbDHG5cvQyqKgxB3UU54uQ0ZUrpOPRFd35btfHiu9h70uoMZCUc9/XwFW1CUxvzJIOQ==",
+  "dgSpecHash": "fOsMo07T/BYKoVYtawNzoqzNir8aoDxXxVosG0m9jCmxb49F0YQYQmTBDrWRcEkyN1ZGNbnznlqMs0w5++LeQA==",
   "success": true,
   "projectFilePath": "C:\\Users\\vitto\\Documents\\RESTDOTNET\\06_REST_Person_CRUD_DataBase_Versionamento_Camadas\\REST_API\\REST_API\\REST_API.csproj",
   "expectedPackageFiles": [
