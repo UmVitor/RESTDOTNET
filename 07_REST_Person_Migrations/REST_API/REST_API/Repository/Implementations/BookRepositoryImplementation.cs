@@ -42,11 +42,11 @@ namespace REST_API.Repository.Implementations
 
         public Book Update(Book book)
         {
-            if (!Exists(book.Id))
+            if (!(Exists(book.Id)))
             {
                 return null;
             }
-            var result = _context.Books.SingleOrDefault(p => Equals(book.Id));
+            var result = _context.Books.SingleOrDefault(p => p.Id.Equals(book.Id));
             if(result != null)
             {
                 try
