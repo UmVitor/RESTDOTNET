@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\vitto\\Documents\\RESTDOTNET\\08_REST_Person_Generic_Repository\\REST_API\\REST_API\\REST_API.csproj": {}
+    "C:\\Users\\vitto\\Documents\\RESTDOTNET\\08_REST_Person_Generic_Repository - Copia\\REST_API\\REST_API\\REST_API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\vitto\\Documents\\RESTDOTNET\\08_REST_Person_Generic_Repository\\REST_API\\REST_API\\REST_API.csproj": {
+    "C:\\Users\\vitto\\Documents\\RESTDOTNET\\08_REST_Person_Generic_Repository - Copia\\REST_API\\REST_API\\REST_API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\vitto\\Documents\\RESTDOTNET\\08_REST_Person_Generic_Repository\\REST_API\\REST_API\\REST_API.csproj",
+        "projectUniqueName": "C:\\Users\\vitto\\Documents\\RESTDOTNET\\08_REST_Person_Generic_Repository - Copia\\REST_API\\REST_API\\REST_API.csproj",
         "projectName": "REST_API",
-        "projectPath": "C:\\Users\\vitto\\Documents\\RESTDOTNET\\08_REST_Person_Generic_Repository\\REST_API\\REST_API\\REST_API.csproj",
+        "projectPath": "C:\\Users\\vitto\\Documents\\RESTDOTNET\\08_REST_Person_Generic_Repository - Copia\\REST_API\\REST_API\\REST_API.csproj",
         "packagesPath": "C:\\Users\\vitto\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\vitto\\Documents\\RESTDOTNET\\08_REST_Person_Generic_Repository\\REST_API\\REST_API\\obj\\",
+        "outputPath": "C:\\Users\\vitto\\Documents\\RESTDOTNET\\08_REST_Person_Generic_Repository - Copia\\REST_API\\REST_API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

@@ -1,22 +1,17 @@
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.EntityFrameworkCore;
-using Microsoft.AspNetCore.HttpsPolicy;
-using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
-using Microsoft.Extensions.Logging;
 using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
 using REST_API.Business;
 using REST_API.Business.Implementations;
 using REST_API.Repository;
-using REST_API.Repository.Implementations;
 using REST_API.Model.Context;
 using Serilog;
+using REST_API.Repository.Generic;
 
 namespace REST_API
 {
@@ -60,10 +55,11 @@ namespace REST_API
 
             //dependence injection
             services.AddScoped<IPersonBusiness, PersonBusinessImplementation>();
-            services.AddScoped<IPersonRepository, PersonRepositoryImplementations>();
-
             services.AddScoped<IBookBusiness, BookBusinessImplementation>();
-            services.AddScoped<IBookRepository, BookRepositoryImplementation>();
+
+            //services.AddScoped<IPersonRepository, PersonRepositoryImplementations>();//old implementation without generic repository
+            ///services.AddScoped<IBookRepository, BookRepositoryImplementation>(); //old implementation without generic repository
+            services.AddScoped(typeof(IRepository<>), typeof(GenericRepository<>));
 
         }
 
