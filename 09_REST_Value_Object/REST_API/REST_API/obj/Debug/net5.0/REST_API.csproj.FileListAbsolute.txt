@@ -1,0 +1,332 @@
+C:\Users\vitto\Documents\RESTDOTNET\01_REST\REST_API\REST_API\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\vitto\Documents\RESTDOTNET\01_REST\REST_API\REST_API\bin\Debug\net5.0\appsettings.json
+C:\Users\vitto\Documents\RESTDOTNET\01_REST\REST_API\REST_API\bin\Debug\net5.0\REST_API.exe
+C:\Users\vitto\Documents\RESTDOTNET\01_REST\REST_API\REST_API\bin\Debug\net5.0\REST_API.deps.json
+C:\Users\vitto\Documents\RESTDOTNET\01_REST\REST_API\REST_API\bin\Debug\net5.0\REST_API.runtimeconfig.json
+C:\Users\vitto\Documents\RESTDOTNET\01_REST\REST_API\REST_API\bin\Debug\net5.0\REST_API.runtimeconfig.dev.json
+C:\Users\vitto\Documents\RESTDOTNET\01_REST\REST_API\REST_API\bin\Debug\net5.0\REST_API.dll
+C:\Users\vitto\Documents\RESTDOTNET\01_REST\REST_API\REST_API\bin\Debug\net5.0\ref\REST_API.dll
+C:\Users\vitto\Documents\RESTDOTNET\01_REST\REST_API\REST_API\bin\Debug\net5.0\REST_API.pdb
+C:\Users\vitto\Documents\RESTDOTNET\01_REST\REST_API\REST_API\obj\Debug\net5.0\REST_API.csproj.AssemblyReference.cache
+C:\Users\vitto\Documents\RESTDOTNET\01_REST\REST_API\REST_API\obj\Debug\net5.0\REST_API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vitto\Documents\RESTDOTNET\01_REST\REST_API\REST_API\obj\Debug\net5.0\REST_API.AssemblyInfoInputs.cache
+C:\Users\vitto\Documents\RESTDOTNET\01_REST\REST_API\REST_API\obj\Debug\net5.0\REST_API.AssemblyInfo.cs
+C:\Users\vitto\Documents\RESTDOTNET\01_REST\REST_API\REST_API\obj\Debug\net5.0\REST_API.csproj.CoreCompileInputs.cache
+C:\Users\vitto\Documents\RESTDOTNET\01_REST\REST_API\REST_API\obj\Debug\net5.0\REST_API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\vitto\Documents\RESTDOTNET\01_REST\REST_API\REST_API\obj\Debug\net5.0\staticwebassets\REST_API.StaticWebAssets.Manifest.cache
+C:\Users\vitto\Documents\RESTDOTNET\01_REST\REST_API\REST_API\obj\Debug\net5.0\staticwebassets\REST_API.StaticWebAssets.xml
+C:\Users\vitto\Documents\RESTDOTNET\01_REST\REST_API\REST_API\obj\Debug\net5.0\scopedcss\bundle\REST_API.styles.css
+C:\Users\vitto\Documents\RESTDOTNET\01_REST\REST_API\REST_API\obj\Debug\net5.0\REST_API.RazorTargetAssemblyInfo.cache
+C:\Users\vitto\Documents\RESTDOTNET\01_REST\REST_API\REST_API\obj\Debug\net5.0\REST_API.dll
+C:\Users\vitto\Documents\RESTDOTNET\01_REST\REST_API\REST_API\obj\Debug\net5.0\ref\REST_API.dll
+C:\Users\vitto\Documents\RESTDOTNET\01_REST\REST_API\REST_API\obj\Debug\net5.0\REST_API.pdb
+C:\Users\vitto\Documents\RESTDOTNET\01_REST\REST_API\REST_API\obj\Debug\net5.0\REST_API.genruntimeconfig.cache
+C:\Users\vitto\Documents\RESTDOTNET\02_REST_Calculator\REST_API\REST_API\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\vitto\Documents\RESTDOTNET\02_REST_Calculator\REST_API\REST_API\bin\Debug\net5.0\appsettings.json
+C:\Users\vitto\Documents\RESTDOTNET\02_REST_Calculator\REST_API\REST_API\bin\Debug\net5.0\REST_API.exe
+C:\Users\vitto\Documents\RESTDOTNET\02_REST_Calculator\REST_API\REST_API\bin\Debug\net5.0\REST_API.deps.json
+C:\Users\vitto\Documents\RESTDOTNET\02_REST_Calculator\REST_API\REST_API\bin\Debug\net5.0\REST_API.runtimeconfig.json
+C:\Users\vitto\Documents\RESTDOTNET\02_REST_Calculator\REST_API\REST_API\bin\Debug\net5.0\REST_API.runtimeconfig.dev.json
+C:\Users\vitto\Documents\RESTDOTNET\02_REST_Calculator\REST_API\REST_API\bin\Debug\net5.0\REST_API.dll
+C:\Users\vitto\Documents\RESTDOTNET\02_REST_Calculator\REST_API\REST_API\bin\Debug\net5.0\ref\REST_API.dll
+C:\Users\vitto\Documents\RESTDOTNET\02_REST_Calculator\REST_API\REST_API\bin\Debug\net5.0\REST_API.pdb
+C:\Users\vitto\Documents\RESTDOTNET\02_REST_Calculator\REST_API\REST_API\obj\Debug\net5.0\REST_API.csproj.AssemblyReference.cache
+C:\Users\vitto\Documents\RESTDOTNET\02_REST_Calculator\REST_API\REST_API\obj\Debug\net5.0\REST_API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vitto\Documents\RESTDOTNET\02_REST_Calculator\REST_API\REST_API\obj\Debug\net5.0\REST_API.AssemblyInfoInputs.cache
+C:\Users\vitto\Documents\RESTDOTNET\02_REST_Calculator\REST_API\REST_API\obj\Debug\net5.0\REST_API.AssemblyInfo.cs
+C:\Users\vitto\Documents\RESTDOTNET\02_REST_Calculator\REST_API\REST_API\obj\Debug\net5.0\REST_API.csproj.CoreCompileInputs.cache
+C:\Users\vitto\Documents\RESTDOTNET\02_REST_Calculator\REST_API\REST_API\obj\Debug\net5.0\REST_API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\vitto\Documents\RESTDOTNET\02_REST_Calculator\REST_API\REST_API\obj\Debug\net5.0\staticwebassets\REST_API.StaticWebAssets.Manifest.cache
+C:\Users\vitto\Documents\RESTDOTNET\02_REST_Calculator\REST_API\REST_API\obj\Debug\net5.0\staticwebassets\REST_API.StaticWebAssets.xml
+C:\Users\vitto\Documents\RESTDOTNET\02_REST_Calculator\REST_API\REST_API\obj\Debug\net5.0\scopedcss\bundle\REST_API.styles.css
+C:\Users\vitto\Documents\RESTDOTNET\02_REST_Calculator\REST_API\REST_API\obj\Debug\net5.0\REST_API.RazorTargetAssemblyInfo.cache
+C:\Users\vitto\Documents\RESTDOTNET\02_REST_Calculator\REST_API\REST_API\obj\Debug\net5.0\REST_API.dll
+C:\Users\vitto\Documents\RESTDOTNET\02_REST_Calculator\REST_API\REST_API\obj\Debug\net5.0\ref\REST_API.dll
+C:\Users\vitto\Documents\RESTDOTNET\02_REST_Calculator\REST_API\REST_API\obj\Debug\net5.0\REST_API.pdb
+C:\Users\vitto\Documents\RESTDOTNET\02_REST_Calculator\REST_API\REST_API\obj\Debug\net5.0\REST_API.genruntimeconfig.cache
+C:\Users\vitto\Documents\RESTDOTNET\03_REST_Calc_CRUD\REST_API\REST_API\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\vitto\Documents\RESTDOTNET\03_REST_Calc_CRUD\REST_API\REST_API\bin\Debug\net5.0\appsettings.json
+C:\Users\vitto\Documents\RESTDOTNET\03_REST_Calc_CRUD\REST_API\REST_API\bin\Debug\net5.0\REST_API.exe
+C:\Users\vitto\Documents\RESTDOTNET\03_REST_Calc_CRUD\REST_API\REST_API\bin\Debug\net5.0\REST_API.deps.json
+C:\Users\vitto\Documents\RESTDOTNET\03_REST_Calc_CRUD\REST_API\REST_API\bin\Debug\net5.0\REST_API.runtimeconfig.json
+C:\Users\vitto\Documents\RESTDOTNET\03_REST_Calc_CRUD\REST_API\REST_API\bin\Debug\net5.0\REST_API.runtimeconfig.dev.json
+C:\Users\vitto\Documents\RESTDOTNET\03_REST_Calc_CRUD\REST_API\REST_API\bin\Debug\net5.0\REST_API.dll
+C:\Users\vitto\Documents\RESTDOTNET\03_REST_Calc_CRUD\REST_API\REST_API\bin\Debug\net5.0\ref\REST_API.dll
+C:\Users\vitto\Documents\RESTDOTNET\03_REST_Calc_CRUD\REST_API\REST_API\bin\Debug\net5.0\REST_API.pdb
+C:\Users\vitto\Documents\RESTDOTNET\03_REST_Calc_CRUD\REST_API\REST_API\obj\Debug\net5.0\REST_API.csproj.AssemblyReference.cache
+C:\Users\vitto\Documents\RESTDOTNET\03_REST_Calc_CRUD\REST_API\REST_API\obj\Debug\net5.0\REST_API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vitto\Documents\RESTDOTNET\03_REST_Calc_CRUD\REST_API\REST_API\obj\Debug\net5.0\REST_API.AssemblyInfoInputs.cache
+C:\Users\vitto\Documents\RESTDOTNET\03_REST_Calc_CRUD\REST_API\REST_API\obj\Debug\net5.0\REST_API.AssemblyInfo.cs
+C:\Users\vitto\Documents\RESTDOTNET\03_REST_Calc_CRUD\REST_API\REST_API\obj\Debug\net5.0\REST_API.csproj.CoreCompileInputs.cache
+C:\Users\vitto\Documents\RESTDOTNET\03_REST_Calc_CRUD\REST_API\REST_API\obj\Debug\net5.0\REST_API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\vitto\Documents\RESTDOTNET\03_REST_Calc_CRUD\REST_API\REST_API\obj\Debug\net5.0\staticwebassets\REST_API.StaticWebAssets.Manifest.cache
+C:\Users\vitto\Documents\RESTDOTNET\03_REST_Calc_CRUD\REST_API\REST_API\obj\Debug\net5.0\staticwebassets\REST_API.StaticWebAssets.xml
+C:\Users\vitto\Documents\RESTDOTNET\03_REST_Calc_CRUD\REST_API\REST_API\obj\Debug\net5.0\scopedcss\bundle\REST_API.styles.css
+C:\Users\vitto\Documents\RESTDOTNET\03_REST_Calc_CRUD\REST_API\REST_API\obj\Debug\net5.0\REST_API.RazorTargetAssemblyInfo.cache
+C:\Users\vitto\Documents\RESTDOTNET\03_REST_Calc_CRUD\REST_API\REST_API\obj\Debug\net5.0\REST_API.dll
+C:\Users\vitto\Documents\RESTDOTNET\03_REST_Calc_CRUD\REST_API\REST_API\obj\Debug\net5.0\ref\REST_API.dll
+C:\Users\vitto\Documents\RESTDOTNET\03_REST_Calc_CRUD\REST_API\REST_API\obj\Debug\net5.0\REST_API.pdb
+C:\Users\vitto\Documents\RESTDOTNET\03_REST_Calc_CRUD\REST_API\REST_API\obj\Debug\net5.0\REST_API.genruntimeconfig.cache
+C:\Users\vitto\Documents\RESTDOTNET\04_REST_Person_CRUD_DataBase\REST_API\REST_API\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\vitto\Documents\RESTDOTNET\04_REST_Person_CRUD_DataBase\REST_API\REST_API\bin\Debug\net5.0\appsettings.json
+C:\Users\vitto\Documents\RESTDOTNET\04_REST_Person_CRUD_DataBase\REST_API\REST_API\bin\Debug\net5.0\REST_API.exe
+C:\Users\vitto\Documents\RESTDOTNET\04_REST_Person_CRUD_DataBase\REST_API\REST_API\bin\Debug\net5.0\REST_API.deps.json
+C:\Users\vitto\Documents\RESTDOTNET\04_REST_Person_CRUD_DataBase\REST_API\REST_API\bin\Debug\net5.0\REST_API.runtimeconfig.json
+C:\Users\vitto\Documents\RESTDOTNET\04_REST_Person_CRUD_DataBase\REST_API\REST_API\bin\Debug\net5.0\REST_API.runtimeconfig.dev.json
+C:\Users\vitto\Documents\RESTDOTNET\04_REST_Person_CRUD_DataBase\REST_API\REST_API\bin\Debug\net5.0\REST_API.dll
+C:\Users\vitto\Documents\RESTDOTNET\04_REST_Person_CRUD_DataBase\REST_API\REST_API\bin\Debug\net5.0\ref\REST_API.dll
+C:\Users\vitto\Documents\RESTDOTNET\04_REST_Person_CRUD_DataBase\REST_API\REST_API\bin\Debug\net5.0\REST_API.pdb
+C:\Users\vitto\Documents\RESTDOTNET\04_REST_Person_CRUD_DataBase\REST_API\REST_API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\vitto\Documents\RESTDOTNET\04_REST_Person_CRUD_DataBase\REST_API\REST_API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\vitto\Documents\RESTDOTNET\04_REST_Person_CRUD_DataBase\REST_API\REST_API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\vitto\Documents\RESTDOTNET\04_REST_Person_CRUD_DataBase\REST_API\REST_API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\vitto\Documents\RESTDOTNET\04_REST_Person_CRUD_DataBase\REST_API\REST_API\bin\Debug\net5.0\MySqlConnector.dll
+C:\Users\vitto\Documents\RESTDOTNET\04_REST_Person_CRUD_DataBase\REST_API\REST_API\bin\Debug\net5.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\vitto\Documents\RESTDOTNET\04_REST_Person_CRUD_DataBase\REST_API\REST_API\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\vitto\Documents\RESTDOTNET\04_REST_Person_CRUD_DataBase\REST_API\REST_API\obj\Debug\net5.0\REST_API.csproj.AssemblyReference.cache
+C:\Users\vitto\Documents\RESTDOTNET\04_REST_Person_CRUD_DataBase\REST_API\REST_API\obj\Debug\net5.0\REST_API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vitto\Documents\RESTDOTNET\04_REST_Person_CRUD_DataBase\REST_API\REST_API\obj\Debug\net5.0\REST_API.AssemblyInfoInputs.cache
+C:\Users\vitto\Documents\RESTDOTNET\04_REST_Person_CRUD_DataBase\REST_API\REST_API\obj\Debug\net5.0\REST_API.AssemblyInfo.cs
+C:\Users\vitto\Documents\RESTDOTNET\04_REST_Person_CRUD_DataBase\REST_API\REST_API\obj\Debug\net5.0\REST_API.csproj.CoreCompileInputs.cache
+C:\Users\vitto\Documents\RESTDOTNET\04_REST_Person_CRUD_DataBase\REST_API\REST_API\obj\Debug\net5.0\REST_API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\vitto\Documents\RESTDOTNET\04_REST_Person_CRUD_DataBase\REST_API\REST_API\obj\Debug\net5.0\staticwebassets\REST_API.StaticWebAssets.Manifest.cache
+C:\Users\vitto\Documents\RESTDOTNET\04_REST_Person_CRUD_DataBase\REST_API\REST_API\obj\Debug\net5.0\staticwebassets\REST_API.StaticWebAssets.xml
+C:\Users\vitto\Documents\RESTDOTNET\04_REST_Person_CRUD_DataBase\REST_API\REST_API\obj\Debug\net5.0\scopedcss\bundle\REST_API.styles.css
+C:\Users\vitto\Documents\RESTDOTNET\04_REST_Person_CRUD_DataBase\REST_API\REST_API\obj\Debug\net5.0\REST_API.RazorTargetAssemblyInfo.cache
+C:\Users\vitto\Documents\RESTDOTNET\04_REST_Person_CRUD_DataBase\REST_API\REST_API\obj\Debug\net5.0\REST_API.dll
+C:\Users\vitto\Documents\RESTDOTNET\04_REST_Person_CRUD_DataBase\REST_API\REST_API\obj\Debug\net5.0\ref\REST_API.dll
+C:\Users\vitto\Documents\RESTDOTNET\04_REST_Person_CRUD_DataBase\REST_API\REST_API\obj\Debug\net5.0\REST_API.pdb
+C:\Users\vitto\Documents\RESTDOTNET\04_REST_Person_CRUD_DataBase\REST_API\REST_API\obj\Debug\net5.0\REST_API.genruntimeconfig.cache
+C:\Users\vitto\Documents\RESTDOTNET\05_REST_Person_CRUD_DataBase_Versionamento\REST_API\REST_API\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\vitto\Documents\RESTDOTNET\05_REST_Person_CRUD_DataBase_Versionamento\REST_API\REST_API\bin\Debug\net5.0\appsettings.json
+C:\Users\vitto\Documents\RESTDOTNET\05_REST_Person_CRUD_DataBase_Versionamento\REST_API\REST_API\bin\Debug\net5.0\REST_API.exe
+C:\Users\vitto\Documents\RESTDOTNET\05_REST_Person_CRUD_DataBase_Versionamento\REST_API\REST_API\bin\Debug\net5.0\REST_API.deps.json
+C:\Users\vitto\Documents\RESTDOTNET\05_REST_Person_CRUD_DataBase_Versionamento\REST_API\REST_API\bin\Debug\net5.0\REST_API.runtimeconfig.json
+C:\Users\vitto\Documents\RESTDOTNET\05_REST_Person_CRUD_DataBase_Versionamento\REST_API\REST_API\bin\Debug\net5.0\REST_API.runtimeconfig.dev.json
+C:\Users\vitto\Documents\RESTDOTNET\05_REST_Person_CRUD_DataBase_Versionamento\REST_API\REST_API\bin\Debug\net5.0\REST_API.dll
+C:\Users\vitto\Documents\RESTDOTNET\05_REST_Person_CRUD_DataBase_Versionamento\REST_API\REST_API\bin\Debug\net5.0\ref\REST_API.dll
+C:\Users\vitto\Documents\RESTDOTNET\05_REST_Person_CRUD_DataBase_Versionamento\REST_API\REST_API\bin\Debug\net5.0\REST_API.pdb
+C:\Users\vitto\Documents\RESTDOTNET\05_REST_Person_CRUD_DataBase_Versionamento\REST_API\REST_API\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Versioning.dll
+C:\Users\vitto\Documents\RESTDOTNET\05_REST_Person_CRUD_DataBase_Versionamento\REST_API\REST_API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\vitto\Documents\RESTDOTNET\05_REST_Person_CRUD_DataBase_Versionamento\REST_API\REST_API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\vitto\Documents\RESTDOTNET\05_REST_Person_CRUD_DataBase_Versionamento\REST_API\REST_API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\vitto\Documents\RESTDOTNET\05_REST_Person_CRUD_DataBase_Versionamento\REST_API\REST_API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\vitto\Documents\RESTDOTNET\05_REST_Person_CRUD_DataBase_Versionamento\REST_API\REST_API\bin\Debug\net5.0\MySqlConnector.dll
+C:\Users\vitto\Documents\RESTDOTNET\05_REST_Person_CRUD_DataBase_Versionamento\REST_API\REST_API\bin\Debug\net5.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\vitto\Documents\RESTDOTNET\05_REST_Person_CRUD_DataBase_Versionamento\REST_API\REST_API\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\vitto\Documents\RESTDOTNET\05_REST_Person_CRUD_DataBase_Versionamento\REST_API\REST_API\obj\Debug\net5.0\REST_API.csproj.AssemblyReference.cache
+C:\Users\vitto\Documents\RESTDOTNET\05_REST_Person_CRUD_DataBase_Versionamento\REST_API\REST_API\obj\Debug\net5.0\REST_API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vitto\Documents\RESTDOTNET\05_REST_Person_CRUD_DataBase_Versionamento\REST_API\REST_API\obj\Debug\net5.0\REST_API.AssemblyInfoInputs.cache
+C:\Users\vitto\Documents\RESTDOTNET\05_REST_Person_CRUD_DataBase_Versionamento\REST_API\REST_API\obj\Debug\net5.0\REST_API.AssemblyInfo.cs
+C:\Users\vitto\Documents\RESTDOTNET\05_REST_Person_CRUD_DataBase_Versionamento\REST_API\REST_API\obj\Debug\net5.0\REST_API.csproj.CoreCompileInputs.cache
+C:\Users\vitto\Documents\RESTDOTNET\05_REST_Person_CRUD_DataBase_Versionamento\REST_API\REST_API\obj\Debug\net5.0\REST_API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\vitto\Documents\RESTDOTNET\05_REST_Person_CRUD_DataBase_Versionamento\REST_API\REST_API\obj\Debug\net5.0\REST_API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\vitto\Documents\RESTDOTNET\05_REST_Person_CRUD_DataBase_Versionamento\REST_API\REST_API\obj\Debug\net5.0\staticwebassets\REST_API.StaticWebAssets.Manifest.cache
+C:\Users\vitto\Documents\RESTDOTNET\05_REST_Person_CRUD_DataBase_Versionamento\REST_API\REST_API\obj\Debug\net5.0\staticwebassets\REST_API.StaticWebAssets.xml
+C:\Users\vitto\Documents\RESTDOTNET\05_REST_Person_CRUD_DataBase_Versionamento\REST_API\REST_API\obj\Debug\net5.0\scopedcss\bundle\REST_API.styles.css
+C:\Users\vitto\Documents\RESTDOTNET\05_REST_Person_CRUD_DataBase_Versionamento\REST_API\REST_API\obj\Debug\net5.0\REST_API.RazorTargetAssemblyInfo.cache
+C:\Users\vitto\Documents\RESTDOTNET\05_REST_Person_CRUD_DataBase_Versionamento\REST_API\REST_API\obj\Debug\net5.0\REST_API.csproj.CopyComplete
+C:\Users\vitto\Documents\RESTDOTNET\05_REST_Person_CRUD_DataBase_Versionamento\REST_API\REST_API\obj\Debug\net5.0\REST_API.dll
+C:\Users\vitto\Documents\RESTDOTNET\05_REST_Person_CRUD_DataBase_Versionamento\REST_API\REST_API\obj\Debug\net5.0\ref\REST_API.dll
+C:\Users\vitto\Documents\RESTDOTNET\05_REST_Person_CRUD_DataBase_Versionamento\REST_API\REST_API\obj\Debug\net5.0\REST_API.pdb
+C:\Users\vitto\Documents\RESTDOTNET\05_REST_Person_CRUD_DataBase_Versionamento\REST_API\REST_API\obj\Debug\net5.0\REST_API.genruntimeconfig.cache
+C:\Users\vitto\Documents\RESTDOTNET\06_REST_Person_CRUD_DataBase_Versionamento_Camadas\REST_API\REST_API\obj\Debug\net5.0\REST_API.csproj.AssemblyReference.cache
+C:\Users\vitto\Documents\RESTDOTNET\06_REST_Person_CRUD_DataBase_Versionamento_Camadas\REST_API\REST_API\obj\Debug\net5.0\REST_API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vitto\Documents\RESTDOTNET\06_REST_Person_CRUD_DataBase_Versionamento_Camadas\REST_API\REST_API\obj\Debug\net5.0\REST_API.AssemblyInfoInputs.cache
+C:\Users\vitto\Documents\RESTDOTNET\06_REST_Person_CRUD_DataBase_Versionamento_Camadas\REST_API\REST_API\obj\Debug\net5.0\REST_API.AssemblyInfo.cs
+C:\Users\vitto\Documents\RESTDOTNET\06_REST_Person_CRUD_DataBase_Versionamento_Camadas\REST_API\REST_API\obj\Debug\net5.0\REST_API.csproj.CoreCompileInputs.cache
+C:\Users\vitto\Documents\RESTDOTNET\06_REST_Person_CRUD_DataBase_Versionamento_Camadas\REST_API\REST_API\obj\Debug\net5.0\REST_API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\vitto\Documents\RESTDOTNET\06_REST_Person_CRUD_DataBase_Versionamento_Camadas\REST_API\REST_API\obj\Debug\net5.0\REST_API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\vitto\Documents\RESTDOTNET\06_REST_Person_CRUD_DataBase_Versionamento_Camadas\REST_API\REST_API\obj\Debug\net5.0\REST_API.dll
+C:\Users\vitto\Documents\RESTDOTNET\06_REST_Person_CRUD_DataBase_Versionamento_Camadas\REST_API\REST_API\obj\Debug\net5.0\ref\REST_API.dll
+C:\Users\vitto\Documents\RESTDOTNET\06_REST_Person_CRUD_DataBase_Versionamento_Camadas\REST_API\REST_API\obj\Debug\net5.0\REST_API.pdb
+C:\Users\vitto\Documents\RESTDOTNET\06_REST_Person_CRUD_DataBase_Versionamento_Camadas\REST_API\REST_API\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\vitto\Documents\RESTDOTNET\06_REST_Person_CRUD_DataBase_Versionamento_Camadas\REST_API\REST_API\bin\Debug\net5.0\appsettings.json
+C:\Users\vitto\Documents\RESTDOTNET\06_REST_Person_CRUD_DataBase_Versionamento_Camadas\REST_API\REST_API\bin\Debug\net5.0\REST_API.exe
+C:\Users\vitto\Documents\RESTDOTNET\06_REST_Person_CRUD_DataBase_Versionamento_Camadas\REST_API\REST_API\bin\Debug\net5.0\REST_API.deps.json
+C:\Users\vitto\Documents\RESTDOTNET\06_REST_Person_CRUD_DataBase_Versionamento_Camadas\REST_API\REST_API\bin\Debug\net5.0\REST_API.runtimeconfig.json
+C:\Users\vitto\Documents\RESTDOTNET\06_REST_Person_CRUD_DataBase_Versionamento_Camadas\REST_API\REST_API\bin\Debug\net5.0\REST_API.runtimeconfig.dev.json
+C:\Users\vitto\Documents\RESTDOTNET\06_REST_Person_CRUD_DataBase_Versionamento_Camadas\REST_API\REST_API\bin\Debug\net5.0\REST_API.dll
+C:\Users\vitto\Documents\RESTDOTNET\06_REST_Person_CRUD_DataBase_Versionamento_Camadas\REST_API\REST_API\bin\Debug\net5.0\ref\REST_API.dll
+C:\Users\vitto\Documents\RESTDOTNET\06_REST_Person_CRUD_DataBase_Versionamento_Camadas\REST_API\REST_API\bin\Debug\net5.0\REST_API.pdb
+C:\Users\vitto\Documents\RESTDOTNET\06_REST_Person_CRUD_DataBase_Versionamento_Camadas\REST_API\REST_API\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Versioning.dll
+C:\Users\vitto\Documents\RESTDOTNET\06_REST_Person_CRUD_DataBase_Versionamento_Camadas\REST_API\REST_API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\vitto\Documents\RESTDOTNET\06_REST_Person_CRUD_DataBase_Versionamento_Camadas\REST_API\REST_API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\vitto\Documents\RESTDOTNET\06_REST_Person_CRUD_DataBase_Versionamento_Camadas\REST_API\REST_API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\vitto\Documents\RESTDOTNET\06_REST_Person_CRUD_DataBase_Versionamento_Camadas\REST_API\REST_API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\vitto\Documents\RESTDOTNET\06_REST_Person_CRUD_DataBase_Versionamento_Camadas\REST_API\REST_API\bin\Debug\net5.0\MySqlConnector.dll
+C:\Users\vitto\Documents\RESTDOTNET\06_REST_Person_CRUD_DataBase_Versionamento_Camadas\REST_API\REST_API\bin\Debug\net5.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\vitto\Documents\RESTDOTNET\06_REST_Person_CRUD_DataBase_Versionamento_Camadas\REST_API\REST_API\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\vitto\Documents\RESTDOTNET\06_REST_Person_CRUD_DataBase_Versionamento_Camadas\REST_API\REST_API\obj\Debug\net5.0\staticwebassets\REST_API.StaticWebAssets.Manifest.cache
+C:\Users\vitto\Documents\RESTDOTNET\06_REST_Person_CRUD_DataBase_Versionamento_Camadas\REST_API\REST_API\obj\Debug\net5.0\staticwebassets\REST_API.StaticWebAssets.xml
+C:\Users\vitto\Documents\RESTDOTNET\06_REST_Person_CRUD_DataBase_Versionamento_Camadas\REST_API\REST_API\obj\Debug\net5.0\scopedcss\bundle\REST_API.styles.css
+C:\Users\vitto\Documents\RESTDOTNET\06_REST_Person_CRUD_DataBase_Versionamento_Camadas\REST_API\REST_API\obj\Debug\net5.0\REST_API.RazorTargetAssemblyInfo.cache
+C:\Users\vitto\Documents\RESTDOTNET\06_REST_Person_CRUD_DataBase_Versionamento_Camadas\REST_API\REST_API\obj\Debug\net5.0\REST_API.genruntimeconfig.cache
+C:\Users\vitto\Documents\RESTDOTNET\07_REST_Person_Migrations\REST_API\REST_API\obj\Debug\net5.0\REST_API.csproj.AssemblyReference.cache
+C:\Users\vitto\Documents\RESTDOTNET\07_REST_Person_Migrations\REST_API\REST_API\obj\Debug\net5.0\REST_API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vitto\Documents\RESTDOTNET\07_REST_Person_Migrations\REST_API\REST_API\obj\Debug\net5.0\REST_API.AssemblyInfoInputs.cache
+C:\Users\vitto\Documents\RESTDOTNET\07_REST_Person_Migrations\REST_API\REST_API\obj\Debug\net5.0\REST_API.AssemblyInfo.cs
+C:\Users\vitto\Documents\RESTDOTNET\07_REST_Person_Migrations\REST_API\REST_API\obj\Debug\net5.0\REST_API.csproj.CoreCompileInputs.cache
+C:\Users\vitto\Documents\RESTDOTNET\07_REST_Person_Migrations\REST_API\REST_API\obj\Debug\net5.0\REST_API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\vitto\Documents\RESTDOTNET\07_REST_Person_Migrations\REST_API\REST_API\obj\Debug\net5.0\REST_API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\vitto\Documents\RESTDOTNET\07_REST_Person_Migrations\REST_API\REST_API\obj\Debug\net5.0\REST_API.dll
+C:\Users\vitto\Documents\RESTDOTNET\07_REST_Person_Migrations\REST_API\REST_API\obj\Debug\net5.0\ref\REST_API.dll
+C:\Users\vitto\Documents\RESTDOTNET\07_REST_Person_Migrations\REST_API\REST_API\obj\Debug\net5.0\REST_API.pdb
+C:\Users\vitto\Documents\RESTDOTNET\07_REST_Person_Migrations\REST_API\REST_API\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\vitto\Documents\RESTDOTNET\07_REST_Person_Migrations\REST_API\REST_API\bin\Debug\net5.0\appsettings.json
+C:\Users\vitto\Documents\RESTDOTNET\07_REST_Person_Migrations\REST_API\REST_API\bin\Debug\net5.0\REST_API.exe
+C:\Users\vitto\Documents\RESTDOTNET\07_REST_Person_Migrations\REST_API\REST_API\bin\Debug\net5.0\REST_API.deps.json
+C:\Users\vitto\Documents\RESTDOTNET\07_REST_Person_Migrations\REST_API\REST_API\bin\Debug\net5.0\REST_API.runtimeconfig.json
+C:\Users\vitto\Documents\RESTDOTNET\07_REST_Person_Migrations\REST_API\REST_API\bin\Debug\net5.0\REST_API.runtimeconfig.dev.json
+C:\Users\vitto\Documents\RESTDOTNET\07_REST_Person_Migrations\REST_API\REST_API\bin\Debug\net5.0\REST_API.dll
+C:\Users\vitto\Documents\RESTDOTNET\07_REST_Person_Migrations\REST_API\REST_API\bin\Debug\net5.0\ref\REST_API.dll
+C:\Users\vitto\Documents\RESTDOTNET\07_REST_Person_Migrations\REST_API\REST_API\bin\Debug\net5.0\REST_API.pdb
+C:\Users\vitto\Documents\RESTDOTNET\07_REST_Person_Migrations\REST_API\REST_API\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+C:\Users\vitto\Documents\RESTDOTNET\07_REST_Person_Migrations\REST_API\REST_API\bin\Debug\net5.0\Evolve.dll
+C:\Users\vitto\Documents\RESTDOTNET\07_REST_Person_Migrations\REST_API\REST_API\bin\Debug\net5.0\Google.Protobuf.dll
+C:\Users\vitto\Documents\RESTDOTNET\07_REST_Person_Migrations\REST_API\REST_API\bin\Debug\net5.0\K4os.Compression.LZ4.dll
+C:\Users\vitto\Documents\RESTDOTNET\07_REST_Person_Migrations\REST_API\REST_API\bin\Debug\net5.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\vitto\Documents\RESTDOTNET\07_REST_Person_Migrations\REST_API\REST_API\bin\Debug\net5.0\K4os.Hash.xxHash.dll
+C:\Users\vitto\Documents\RESTDOTNET\07_REST_Person_Migrations\REST_API\REST_API\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Versioning.dll
+C:\Users\vitto\Documents\RESTDOTNET\07_REST_Person_Migrations\REST_API\REST_API\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\vitto\Documents\RESTDOTNET\07_REST_Person_Migrations\REST_API\REST_API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\vitto\Documents\RESTDOTNET\07_REST_Person_Migrations\REST_API\REST_API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\vitto\Documents\RESTDOTNET\07_REST_Person_Migrations\REST_API\REST_API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\vitto\Documents\RESTDOTNET\07_REST_Person_Migrations\REST_API\REST_API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\vitto\Documents\RESTDOTNET\07_REST_Person_Migrations\REST_API\REST_API\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\vitto\Documents\RESTDOTNET\07_REST_Person_Migrations\REST_API\REST_API\bin\Debug\net5.0\MySql.Data.dll
+C:\Users\vitto\Documents\RESTDOTNET\07_REST_Person_Migrations\REST_API\REST_API\bin\Debug\net5.0\Ubiety.Dns.Core.dll
+C:\Users\vitto\Documents\RESTDOTNET\07_REST_Person_Migrations\REST_API\REST_API\bin\Debug\net5.0\ZstdNet.dll
+C:\Users\vitto\Documents\RESTDOTNET\07_REST_Person_Migrations\REST_API\REST_API\bin\Debug\net5.0\MySqlConnector.dll
+C:\Users\vitto\Documents\RESTDOTNET\07_REST_Person_Migrations\REST_API\REST_API\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\vitto\Documents\RESTDOTNET\07_REST_Person_Migrations\REST_API\REST_API\bin\Debug\net5.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\vitto\Documents\RESTDOTNET\07_REST_Person_Migrations\REST_API\REST_API\bin\Debug\net5.0\Serilog.dll
+C:\Users\vitto\Documents\RESTDOTNET\07_REST_Person_Migrations\REST_API\REST_API\bin\Debug\net5.0\Serilog.AspNetCore.dll
+C:\Users\vitto\Documents\RESTDOTNET\07_REST_Person_Migrations\REST_API\REST_API\bin\Debug\net5.0\Serilog.Extensions.Hosting.dll
+C:\Users\vitto\Documents\RESTDOTNET\07_REST_Person_Migrations\REST_API\REST_API\bin\Debug\net5.0\Serilog.Extensions.Logging.dll
+C:\Users\vitto\Documents\RESTDOTNET\07_REST_Person_Migrations\REST_API\REST_API\bin\Debug\net5.0\Serilog.Formatting.Compact.dll
+C:\Users\vitto\Documents\RESTDOTNET\07_REST_Person_Migrations\REST_API\REST_API\bin\Debug\net5.0\Serilog.Settings.Configuration.dll
+C:\Users\vitto\Documents\RESTDOTNET\07_REST_Person_Migrations\REST_API\REST_API\bin\Debug\net5.0\Serilog.Sinks.Console.dll
+C:\Users\vitto\Documents\RESTDOTNET\07_REST_Person_Migrations\REST_API\REST_API\bin\Debug\net5.0\Serilog.Sinks.Debug.dll
+C:\Users\vitto\Documents\RESTDOTNET\07_REST_Person_Migrations\REST_API\REST_API\bin\Debug\net5.0\Serilog.Sinks.File.dll
+C:\Users\vitto\Documents\RESTDOTNET\07_REST_Person_Migrations\REST_API\REST_API\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\vitto\Documents\RESTDOTNET\07_REST_Person_Migrations\REST_API\REST_API\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\vitto\Documents\RESTDOTNET\07_REST_Person_Migrations\REST_API\REST_API\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\vitto\Documents\RESTDOTNET\07_REST_Person_Migrations\REST_API\REST_API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\vitto\Documents\RESTDOTNET\07_REST_Person_Migrations\REST_API\REST_API\obj\Debug\net5.0\staticwebassets\REST_API.StaticWebAssets.Manifest.cache
+C:\Users\vitto\Documents\RESTDOTNET\07_REST_Person_Migrations\REST_API\REST_API\obj\Debug\net5.0\staticwebassets\REST_API.StaticWebAssets.xml
+C:\Users\vitto\Documents\RESTDOTNET\07_REST_Person_Migrations\REST_API\REST_API\obj\Debug\net5.0\scopedcss\bundle\REST_API.styles.css
+C:\Users\vitto\Documents\RESTDOTNET\07_REST_Person_Migrations\REST_API\REST_API\obj\Debug\net5.0\REST_API.RazorTargetAssemblyInfo.cache
+C:\Users\vitto\Documents\RESTDOTNET\07_REST_Person_Migrations\REST_API\REST_API\obj\Debug\net5.0\REST_API.genruntimeconfig.cache
+C:\Users\vitto\Documents\RESTDOTNET\08_REST_Person_Generic_Repository - Copia\REST_API\REST_API\obj\Debug\net5.0\REST_API.csproj.AssemblyReference.cache
+C:\Users\vitto\Documents\RESTDOTNET\08_REST_Person_Generic_Repository - Copia\REST_API\REST_API\obj\Debug\net5.0\REST_API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vitto\Documents\RESTDOTNET\08_REST_Person_Generic_Repository - Copia\REST_API\REST_API\obj\Debug\net5.0\REST_API.AssemblyInfoInputs.cache
+C:\Users\vitto\Documents\RESTDOTNET\08_REST_Person_Generic_Repository - Copia\REST_API\REST_API\obj\Debug\net5.0\REST_API.AssemblyInfo.cs
+C:\Users\vitto\Documents\RESTDOTNET\08_REST_Person_Generic_Repository - Copia\REST_API\REST_API\obj\Debug\net5.0\REST_API.csproj.CoreCompileInputs.cache
+C:\Users\vitto\Documents\RESTDOTNET\08_REST_Person_Generic_Repository - Copia\REST_API\REST_API\obj\Debug\net5.0\REST_API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\vitto\Documents\RESTDOTNET\08_REST_Person_Generic_Repository - Copia\REST_API\REST_API\obj\Debug\net5.0\REST_API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\vitto\Documents\RESTDOTNET\08_REST_Person_Generic_Repository - Copia\REST_API\REST_API\obj\Debug\net5.0\REST_API.dll
+C:\Users\vitto\Documents\RESTDOTNET\08_REST_Person_Generic_Repository - Copia\REST_API\REST_API\obj\Debug\net5.0\ref\REST_API.dll
+C:\Users\vitto\Documents\RESTDOTNET\08_REST_Person_Generic_Repository - Copia\REST_API\REST_API\obj\Debug\net5.0\REST_API.pdb
+C:\Users\vitto\Documents\RESTDOTNET\08_REST_Person_Generic_Repository - Copia\REST_API\REST_API\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\vitto\Documents\RESTDOTNET\08_REST_Person_Generic_Repository - Copia\REST_API\REST_API\bin\Debug\net5.0\appsettings.json
+C:\Users\vitto\Documents\RESTDOTNET\08_REST_Person_Generic_Repository - Copia\REST_API\REST_API\bin\Debug\net5.0\REST_API.exe
+C:\Users\vitto\Documents\RESTDOTNET\08_REST_Person_Generic_Repository - Copia\REST_API\REST_API\bin\Debug\net5.0\REST_API.deps.json
+C:\Users\vitto\Documents\RESTDOTNET\08_REST_Person_Generic_Repository - Copia\REST_API\REST_API\bin\Debug\net5.0\REST_API.runtimeconfig.json
+C:\Users\vitto\Documents\RESTDOTNET\08_REST_Person_Generic_Repository - Copia\REST_API\REST_API\bin\Debug\net5.0\REST_API.runtimeconfig.dev.json
+C:\Users\vitto\Documents\RESTDOTNET\08_REST_Person_Generic_Repository - Copia\REST_API\REST_API\bin\Debug\net5.0\REST_API.dll
+C:\Users\vitto\Documents\RESTDOTNET\08_REST_Person_Generic_Repository - Copia\REST_API\REST_API\bin\Debug\net5.0\ref\REST_API.dll
+C:\Users\vitto\Documents\RESTDOTNET\08_REST_Person_Generic_Repository - Copia\REST_API\REST_API\bin\Debug\net5.0\REST_API.pdb
+C:\Users\vitto\Documents\RESTDOTNET\08_REST_Person_Generic_Repository - Copia\REST_API\REST_API\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+C:\Users\vitto\Documents\RESTDOTNET\08_REST_Person_Generic_Repository - Copia\REST_API\REST_API\bin\Debug\net5.0\Evolve.dll
+C:\Users\vitto\Documents\RESTDOTNET\08_REST_Person_Generic_Repository - Copia\REST_API\REST_API\bin\Debug\net5.0\Google.Protobuf.dll
+C:\Users\vitto\Documents\RESTDOTNET\08_REST_Person_Generic_Repository - Copia\REST_API\REST_API\bin\Debug\net5.0\K4os.Compression.LZ4.dll
+C:\Users\vitto\Documents\RESTDOTNET\08_REST_Person_Generic_Repository - Copia\REST_API\REST_API\bin\Debug\net5.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\vitto\Documents\RESTDOTNET\08_REST_Person_Generic_Repository - Copia\REST_API\REST_API\bin\Debug\net5.0\K4os.Hash.xxHash.dll
+C:\Users\vitto\Documents\RESTDOTNET\08_REST_Person_Generic_Repository - Copia\REST_API\REST_API\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Versioning.dll
+C:\Users\vitto\Documents\RESTDOTNET\08_REST_Person_Generic_Repository - Copia\REST_API\REST_API\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\vitto\Documents\RESTDOTNET\08_REST_Person_Generic_Repository - Copia\REST_API\REST_API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\vitto\Documents\RESTDOTNET\08_REST_Person_Generic_Repository - Copia\REST_API\REST_API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\vitto\Documents\RESTDOTNET\08_REST_Person_Generic_Repository - Copia\REST_API\REST_API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\vitto\Documents\RESTDOTNET\08_REST_Person_Generic_Repository - Copia\REST_API\REST_API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\vitto\Documents\RESTDOTNET\08_REST_Person_Generic_Repository - Copia\REST_API\REST_API\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\vitto\Documents\RESTDOTNET\08_REST_Person_Generic_Repository - Copia\REST_API\REST_API\bin\Debug\net5.0\MySql.Data.dll
+C:\Users\vitto\Documents\RESTDOTNET\08_REST_Person_Generic_Repository - Copia\REST_API\REST_API\bin\Debug\net5.0\Ubiety.Dns.Core.dll
+C:\Users\vitto\Documents\RESTDOTNET\08_REST_Person_Generic_Repository - Copia\REST_API\REST_API\bin\Debug\net5.0\ZstdNet.dll
+C:\Users\vitto\Documents\RESTDOTNET\08_REST_Person_Generic_Repository - Copia\REST_API\REST_API\bin\Debug\net5.0\MySqlConnector.dll
+C:\Users\vitto\Documents\RESTDOTNET\08_REST_Person_Generic_Repository - Copia\REST_API\REST_API\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\vitto\Documents\RESTDOTNET\08_REST_Person_Generic_Repository - Copia\REST_API\REST_API\bin\Debug\net5.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\vitto\Documents\RESTDOTNET\08_REST_Person_Generic_Repository - Copia\REST_API\REST_API\bin\Debug\net5.0\Serilog.dll
+C:\Users\vitto\Documents\RESTDOTNET\08_REST_Person_Generic_Repository - Copia\REST_API\REST_API\bin\Debug\net5.0\Serilog.AspNetCore.dll
+C:\Users\vitto\Documents\RESTDOTNET\08_REST_Person_Generic_Repository - Copia\REST_API\REST_API\bin\Debug\net5.0\Serilog.Extensions.Hosting.dll
+C:\Users\vitto\Documents\RESTDOTNET\08_REST_Person_Generic_Repository - Copia\REST_API\REST_API\bin\Debug\net5.0\Serilog.Extensions.Logging.dll
+C:\Users\vitto\Documents\RESTDOTNET\08_REST_Person_Generic_Repository - Copia\REST_API\REST_API\bin\Debug\net5.0\Serilog.Formatting.Compact.dll
+C:\Users\vitto\Documents\RESTDOTNET\08_REST_Person_Generic_Repository - Copia\REST_API\REST_API\bin\Debug\net5.0\Serilog.Settings.Configuration.dll
+C:\Users\vitto\Documents\RESTDOTNET\08_REST_Person_Generic_Repository - Copia\REST_API\REST_API\bin\Debug\net5.0\Serilog.Sinks.Console.dll
+C:\Users\vitto\Documents\RESTDOTNET\08_REST_Person_Generic_Repository - Copia\REST_API\REST_API\bin\Debug\net5.0\Serilog.Sinks.Debug.dll
+C:\Users\vitto\Documents\RESTDOTNET\08_REST_Person_Generic_Repository - Copia\REST_API\REST_API\bin\Debug\net5.0\Serilog.Sinks.File.dll
+C:\Users\vitto\Documents\RESTDOTNET\08_REST_Person_Generic_Repository - Copia\REST_API\REST_API\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\vitto\Documents\RESTDOTNET\08_REST_Person_Generic_Repository - Copia\REST_API\REST_API\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\vitto\Documents\RESTDOTNET\08_REST_Person_Generic_Repository - Copia\REST_API\REST_API\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\vitto\Documents\RESTDOTNET\08_REST_Person_Generic_Repository - Copia\REST_API\REST_API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\vitto\Documents\RESTDOTNET\08_REST_Person_Generic_Repository - Copia\REST_API\REST_API\obj\Debug\net5.0\staticwebassets\REST_API.StaticWebAssets.Manifest.cache
+C:\Users\vitto\Documents\RESTDOTNET\08_REST_Person_Generic_Repository - Copia\REST_API\REST_API\obj\Debug\net5.0\staticwebassets\REST_API.StaticWebAssets.xml
+C:\Users\vitto\Documents\RESTDOTNET\08_REST_Person_Generic_Repository - Copia\REST_API\REST_API\obj\Debug\net5.0\scopedcss\bundle\REST_API.styles.css
+C:\Users\vitto\Documents\RESTDOTNET\08_REST_Person_Generic_Repository - Copia\REST_API\REST_API\obj\Debug\net5.0\REST_API.RazorTargetAssemblyInfo.cache
+C:\Users\vitto\Documents\RESTDOTNET\08_REST_Person_Generic_Repository - Copia\REST_API\REST_API\obj\Debug\net5.0\REST_API.genruntimeconfig.cache
+C:\Users\vitto\Documents\RESTDOTNET\09_REST_Value_Object\REST_API\REST_API\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\vitto\Documents\RESTDOTNET\09_REST_Value_Object\REST_API\REST_API\bin\Debug\net5.0\appsettings.json
+C:\Users\vitto\Documents\RESTDOTNET\09_REST_Value_Object\REST_API\REST_API\bin\Debug\net5.0\REST_API.exe
+C:\Users\vitto\Documents\RESTDOTNET\09_REST_Value_Object\REST_API\REST_API\bin\Debug\net5.0\REST_API.deps.json
+C:\Users\vitto\Documents\RESTDOTNET\09_REST_Value_Object\REST_API\REST_API\bin\Debug\net5.0\REST_API.runtimeconfig.json
+C:\Users\vitto\Documents\RESTDOTNET\09_REST_Value_Object\REST_API\REST_API\bin\Debug\net5.0\REST_API.runtimeconfig.dev.json
+C:\Users\vitto\Documents\RESTDOTNET\09_REST_Value_Object\REST_API\REST_API\bin\Debug\net5.0\REST_API.dll
+C:\Users\vitto\Documents\RESTDOTNET\09_REST_Value_Object\REST_API\REST_API\bin\Debug\net5.0\ref\REST_API.dll
+C:\Users\vitto\Documents\RESTDOTNET\09_REST_Value_Object\REST_API\REST_API\bin\Debug\net5.0\REST_API.pdb
+C:\Users\vitto\Documents\RESTDOTNET\09_REST_Value_Object\REST_API\REST_API\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+C:\Users\vitto\Documents\RESTDOTNET\09_REST_Value_Object\REST_API\REST_API\bin\Debug\net5.0\Evolve.dll
+C:\Users\vitto\Documents\RESTDOTNET\09_REST_Value_Object\REST_API\REST_API\bin\Debug\net5.0\Google.Protobuf.dll
+C:\Users\vitto\Documents\RESTDOTNET\09_REST_Value_Object\REST_API\REST_API\bin\Debug\net5.0\K4os.Compression.LZ4.dll
+C:\Users\vitto\Documents\RESTDOTNET\09_REST_Value_Object\REST_API\REST_API\bin\Debug\net5.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\vitto\Documents\RESTDOTNET\09_REST_Value_Object\REST_API\REST_API\bin\Debug\net5.0\K4os.Hash.xxHash.dll
+C:\Users\vitto\Documents\RESTDOTNET\09_REST_Value_Object\REST_API\REST_API\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Versioning.dll
+C:\Users\vitto\Documents\RESTDOTNET\09_REST_Value_Object\REST_API\REST_API\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\vitto\Documents\RESTDOTNET\09_REST_Value_Object\REST_API\REST_API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\vitto\Documents\RESTDOTNET\09_REST_Value_Object\REST_API\REST_API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\vitto\Documents\RESTDOTNET\09_REST_Value_Object\REST_API\REST_API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\vitto\Documents\RESTDOTNET\09_REST_Value_Object\REST_API\REST_API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\vitto\Documents\RESTDOTNET\09_REST_Value_Object\REST_API\REST_API\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\vitto\Documents\RESTDOTNET\09_REST_Value_Object\REST_API\REST_API\bin\Debug\net5.0\MySql.Data.dll
+C:\Users\vitto\Documents\RESTDOTNET\09_REST_Value_Object\REST_API\REST_API\bin\Debug\net5.0\Ubiety.Dns.Core.dll
+C:\Users\vitto\Documents\RESTDOTNET\09_REST_Value_Object\REST_API\REST_API\bin\Debug\net5.0\ZstdNet.dll
+C:\Users\vitto\Documents\RESTDOTNET\09_REST_Value_Object\REST_API\REST_API\bin\Debug\net5.0\MySqlConnector.dll
+C:\Users\vitto\Documents\RESTDOTNET\09_REST_Value_Object\REST_API\REST_API\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\vitto\Documents\RESTDOTNET\09_REST_Value_Object\REST_API\REST_API\bin\Debug\net5.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\vitto\Documents\RESTDOTNET\09_REST_Value_Object\REST_API\REST_API\bin\Debug\net5.0\Serilog.dll
+C:\Users\vitto\Documents\RESTDOTNET\09_REST_Value_Object\REST_API\REST_API\bin\Debug\net5.0\Serilog.AspNetCore.dll
+C:\Users\vitto\Documents\RESTDOTNET\09_REST_Value_Object\REST_API\REST_API\bin\Debug\net5.0\Serilog.Extensions.Hosting.dll
+C:\Users\vitto\Documents\RESTDOTNET\09_REST_Value_Object\REST_API\REST_API\bin\Debug\net5.0\Serilog.Extensions.Logging.dll
+C:\Users\vitto\Documents\RESTDOTNET\09_REST_Value_Object\REST_API\REST_API\bin\Debug\net5.0\Serilog.Formatting.Compact.dll
+C:\Users\vitto\Documents\RESTDOTNET\09_REST_Value_Object\REST_API\REST_API\bin\Debug\net5.0\Serilog.Settings.Configuration.dll
+C:\Users\vitto\Documents\RESTDOTNET\09_REST_Value_Object\REST_API\REST_API\bin\Debug\net5.0\Serilog.Sinks.Console.dll
+C:\Users\vitto\Documents\RESTDOTNET\09_REST_Value_Object\REST_API\REST_API\bin\Debug\net5.0\Serilog.Sinks.Debug.dll
+C:\Users\vitto\Documents\RESTDOTNET\09_REST_Value_Object\REST_API\REST_API\bin\Debug\net5.0\Serilog.Sinks.File.dll
+C:\Users\vitto\Documents\RESTDOTNET\09_REST_Value_Object\REST_API\REST_API\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\vitto\Documents\RESTDOTNET\09_REST_Value_Object\REST_API\REST_API\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\vitto\Documents\RESTDOTNET\09_REST_Value_Object\REST_API\REST_API\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\vitto\Documents\RESTDOTNET\09_REST_Value_Object\REST_API\REST_API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\vitto\Documents\RESTDOTNET\09_REST_Value_Object\REST_API\REST_API\obj\Debug\net5.0\REST_API.csproj.AssemblyReference.cache
+C:\Users\vitto\Documents\RESTDOTNET\09_REST_Value_Object\REST_API\REST_API\obj\Debug\net5.0\REST_API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vitto\Documents\RESTDOTNET\09_REST_Value_Object\REST_API\REST_API\obj\Debug\net5.0\REST_API.AssemblyInfoInputs.cache
+C:\Users\vitto\Documents\RESTDOTNET\09_REST_Value_Object\REST_API\REST_API\obj\Debug\net5.0\REST_API.AssemblyInfo.cs
+C:\Users\vitto\Documents\RESTDOTNET\09_REST_Value_Object\REST_API\REST_API\obj\Debug\net5.0\REST_API.csproj.CoreCompileInputs.cache
+C:\Users\vitto\Documents\RESTDOTNET\09_REST_Value_Object\REST_API\REST_API\obj\Debug\net5.0\REST_API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\vitto\Documents\RESTDOTNET\09_REST_Value_Object\REST_API\REST_API\obj\Debug\net5.0\REST_API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\vitto\Documents\RESTDOTNET\09_REST_Value_Object\REST_API\REST_API\obj\Debug\net5.0\staticwebassets\REST_API.StaticWebAssets.Manifest.cache
+C:\Users\vitto\Documents\RESTDOTNET\09_REST_Value_Object\REST_API\REST_API\obj\Debug\net5.0\staticwebassets\REST_API.StaticWebAssets.xml
+C:\Users\vitto\Documents\RESTDOTNET\09_REST_Value_Object\REST_API\REST_API\obj\Debug\net5.0\scopedcss\bundle\REST_API.styles.css
+C:\Users\vitto\Documents\RESTDOTNET\09_REST_Value_Object\REST_API\REST_API\obj\Debug\net5.0\REST_API.RazorTargetAssemblyInfo.cache
+C:\Users\vitto\Documents\RESTDOTNET\09_REST_Value_Object\REST_API\REST_API\obj\Debug\net5.0\REST_API.dll
+C:\Users\vitto\Documents\RESTDOTNET\09_REST_Value_Object\REST_API\REST_API\obj\Debug\net5.0\ref\REST_API.dll
+C:\Users\vitto\Documents\RESTDOTNET\09_REST_Value_Object\REST_API\REST_API\obj\Debug\net5.0\REST_API.pdb
+C:\Users\vitto\Documents\RESTDOTNET\09_REST_Value_Object\REST_API\REST_API\obj\Debug\net5.0\REST_API.genruntimeconfig.cache
