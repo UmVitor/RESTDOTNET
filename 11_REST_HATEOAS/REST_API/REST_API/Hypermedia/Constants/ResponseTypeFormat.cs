@@ -5,16 +5,12 @@ using System.Threading.Tasks;
 
 namespace REST_API.Hypermedia.Constants
 {
-    public class RelationType
+    public class ResponseTypeFormat
     {
-        public const string self = "self";
-        public const string post = "post";
-        public const string put = "put";
-        public const string delete = "delete";
-        public const string patch = "patch";
-        public const string next = "next";
-        public const string previous = "previous";
-        public const string first = "first";
-        public const string last = "last";               
+        public const string DefaultGet = "application/json";
+        public const string DefaultPost = "application/json";
+        public const string DefaultPut = "application/json";       
+        public const string DefaultPatch = "application/json";
+
     }
 }
