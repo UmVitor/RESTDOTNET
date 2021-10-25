@@ -8,6 +8,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using REST_API.Model;
 using REST_API.Data.VO;
+using REST_API.Hypermedia.Filters;
 
 namespace REST_API.Controllers
 {
@@ -33,6 +34,7 @@ namespace REST_API.Controllers
         // Maps GET requests to https://localhost:{port}/api/person
         // Get no parameters for FindAll -> Search All
         [HttpGet()]
+        [TypeFilter(typeof(HyperMediaFilter))]
         public IActionResult Get()
         {
             return Ok(_PersonBusiness.FindAll());
@@ -42,6 +44,7 @@ namespace REST_API.Controllers
         // receiving an ID as in the Request Path
         // Get with parameters for FindById -> Search by ID
         [HttpGet("{id}")]
+        [TypeFilter(typeof(HyperMediaFilter))]
         public IActionResult Get(long id)
         {
             var person = _PersonBusiness.FindById(id);
@@ -55,6 +58,7 @@ namespace REST_API.Controllers
         // Maps POST requests to https://localhost:{port}/api/person/
         // [FromBody] consumes the JSON object sent in the request body
         [HttpPost]
+        [TypeFilter(typeof(HyperMediaFilter))]
         public IActionResult Post([FromBody] PersonVO person)
         {
             
@@ -68,6 +72,7 @@ namespace REST_API.Controllers
         // Maps PUT requests to https://localhost:{port}/api/person/
         // [FromBody] consumes the JSON object sent in the request body
         [HttpPut]
+        [TypeFilter(typeof(HyperMediaFilter))]
         public IActionResult Put([FromBody] PersonVO person)
         {
 
@@ -81,6 +86,7 @@ namespace REST_API.Controllers
         // Maps DELETE requests to https://localhost:{port}/api/person/{id}
         // receiving an ID as in the Request Pat
         [HttpDelete("{id}")]
+        
         public IActionResult Delete(long id)
         {
             _PersonBusiness.Delete(id);

@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 
 namespace REST_API.Hypermedia.Constants
 {
-    public class RelationType
+    public sealed class RelationType
     {
         public const string self = "self";
         public const string post = "post";

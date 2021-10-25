@@ -13,6 +13,8 @@ using REST_API.Model.Context;
 using Serilog;
 using REST_API.Repository.Generic;
 using Microsoft.Net.Http.Headers;
+using REST_API.Hypermedia.Filters;
+using REST_API.Hypermedia.Enricher;
 
 namespace REST_API
 {
@@ -58,6 +60,12 @@ namespace REST_API
                 options.FormatterMappings.SetMediaTypeMappingForFormat("json", MediaTypeHeaderValue.Parse("application/json"));
             }).AddXmlSerializerFormatters();
 
+            var filterOptions = new HyperMediaFilterOptions();
+            filterOptions.ContentResponseEnricherList.Add(new PersonEnricher());
+            filterOptions.ContentResponseEnricherList.Add(new BookEnricher());
+
+            services.AddSingleton(filterOptions);
+
 
             //versioning API
             services.AddApiVersioning();
@@ -89,6 +97,7 @@ namespace REST_API
             app.UseEndpoints(endpoints =>
             {
                 endpoints.MapControllers();
+                endpoints.MapControllerRoute("DefaultApi", "{controller=values}/{id?}");
             });
         }
         private void MigrateDatabase(string connection)

@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 
 namespace REST_API.Hypermedia.Abstract
 {
-    public interface ISupportHyperMedia
+    public interface ISupportsHyperMedia
     {
         List<HyperMediaLink> Links { get; set; }
     }
