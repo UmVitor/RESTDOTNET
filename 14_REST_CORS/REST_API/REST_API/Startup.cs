@@ -33,12 +33,16 @@ namespace REST_API
 
         }
 
-        
+
 
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
+            services.AddCors(options => options.AddDefaultPolicy(builder =>
+            {
+                builder.AllowAnyOrigin().AllowAnyMethod().AllowAnyHeader();
 
+            }));
             services.AddControllers();
 
             //create our connection
@@ -109,6 +113,8 @@ namespace REST_API
             app.UseHttpsRedirection();
 
             app.UseRouting();
+
+            app.UseCors();  //must be added after UseHttpsRedirection/UseRouting and before UseEndpoints
 
             app.UseSwagger(); //Generate a JSON
             
