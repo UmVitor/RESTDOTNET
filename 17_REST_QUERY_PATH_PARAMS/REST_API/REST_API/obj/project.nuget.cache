@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Xwx/AZ0TzHPEAcbHTkjbPrdxOIFW7aSMeRK0GCuIabXGVz7KBGuEIWHj5J6LOiwKIxE6uGP52hHpy6icZtVzSw==",
+  "dgSpecHash": "GDtCKRQh+cCLjlwd8BE7tqB3nHvoM9ngAp++5C8ZbtBqR+d36MaNUQRv3P216BQjXzQL2IcRKk4rSAi/8wNbhw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\vitto\\Documents\\RESTDOTNET\\16_REST_PATCH\\REST_API\\REST_API\\REST_API.csproj",
+  "projectFilePath": "C:\\Users\\vitto\\Documents\\RESTDOTNET\\17_REST_QUERY_PATH_PARAMS\\REST_API\\REST_API\\REST_API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\vitto\\.nuget\\packages\\bouncycastle.netcore\\1.8.5\\bouncycastle.netcore.1.8.5.nupkg.sha512",
     "C:\\Users\\vitto\\.nuget\\packages\\evolve\\3.0.0\\evolve.3.0.0.nupkg.sha512",

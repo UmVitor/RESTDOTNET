@@ -7,4 +7,4 @@ build_property.PublishSingleFile =
 build_property.IncludeAllContentForSelfExtract = 
 build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
 build_property.RootNamespace = REST_API
-build_property.ProjectDir = C:\Users\vitto\Documents\RESTDOTNET\16_REST_PATCH\REST_API\REST_API\
+build_property.ProjectDir = C:\Users\vitto\Documents\RESTDOTNET\17_REST_QUERY_PATH_PARAMS\REST_API\REST_API\

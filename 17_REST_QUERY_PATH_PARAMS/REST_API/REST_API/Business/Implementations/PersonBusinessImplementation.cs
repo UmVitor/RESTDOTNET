@@ -30,7 +30,12 @@ namespace REST_API.Business.Implementations
         {
             return _converter.Parse(_repository.FindById(id));
         }
-        
+
+        public List<PersonVO> FindByName(string firstName, string lastName)
+        {
+            return _converter.Parse(_repository.FindByName(firstName, lastName));
+        }
+
         // Method responsible to crete one new person
         public PersonVO Create(PersonVO person)
         {
