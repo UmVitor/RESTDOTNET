@@ -5,6 +5,7 @@ using REST_API.Business;
 using REST_API.Data.VO;
 using System;
 using System.Collections.Generic;
+using System.IO;
 using System.Linq;
 
 using System.Threading.Tasks;
@@ -35,6 +36,24 @@ namespace REST_API.Controllers
             return new OkObjectResult(detail);
         }  
         
+        [HttpGet("downloadFile/{fileName}")]
+        [ProducesResponseType((200), Type = typeof(byte[]))]
+        [ProducesResponseType(204)]
+        [ProducesResponseType(400)]
+        [ProducesResponseType(401)]
+        [Produces("application/octet-stream")]
+        public async Task<IActionResult> GetFileAsync(string fileName)
+        {
+            byte[] buffer = _fileBusiness.GetFile(fileName);
+            if (buffer != null)
+            {
+                HttpContext.Response.ContentType = $"application/{Path.GetExtension(fileName).Replace(".", "")}";
+                HttpContext.Response.Headers.Add("content-length", buffer.Length.ToString());
+                await HttpContext.Response.Body.WriteAsync(buffer, 0, buffer.Length);
+            }
+            return new ContentResult();
+        }
+
         [HttpPost("uploadMultipleFiles")]
         [ProducesResponseType((200), Type = typeof(List<FileDetailVO>))]
         [ProducesResponseType(400)]
