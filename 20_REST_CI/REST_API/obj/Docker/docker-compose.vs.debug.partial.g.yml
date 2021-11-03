@@ -14,8 +14,8 @@ services:
       - ASPNETCORE_LOGGING__CONSOLE__DISABLECOLORS=true
       #- NUGET_FALLBACK_PACKAGES=$container_paths_to_fallback_packages_rest-api$
     volumes:
-      - C:\Users\vitto\Documents\RESTDOTNET\19_REST_DOCKER\REST_API\REST_API:/app
-      - C:\Users\vitto\Documents\RESTDOTNET\19_REST_DOCKER\REST_API\.:/src
+      - C:\Users\vitto\Documents\RESTDOTNET\20_REST_CI\REST_API\REST_API:/app
+      - C:\Users\vitto\Documents\RESTDOTNET\20_REST_CI\REST_API\.:/src
       - C:\Users\vitto\vsdbg\vs2017u5:/remote_debugger:rw
 #$nuget_volume_mapping_rest-api$
       - ${APPDATA}/ASP.NET/Https:/root/.aspnet/https:ro
@@ -24,7 +24,7 @@ services:
     entrypoint: tail -f /dev/null
     labels:
       com.microsoft.visualstudio.debuggee.program: "dotnet"
-      #com.microsoft.visualstudio.debuggee.arguments: " $debuggee_arguments_probing_paths_rest-api$ \"/app/bin/Debug/net5.0/REST_API.dll\""
+      #com.microsoft.visualstudio.debuggee.arguments: " $debuggee_arguments_probing_paths_rest-api$ \"/src/../../19_REST_DOCKER/REST_API/REST_API/bin/Debug/net5.0/REST_API.dll\""
       com.microsoft.visualstudio.debuggee.workingdirectory: "/app"
       com.microsoft.visualstudio.debuggee.killprogram: "/bin/sh -c \"if PID=$$(pidof dotnet); then kill $$PID; fi\""
     tty: true

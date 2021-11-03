@@ -41,5 +41,5 @@ services:
       protocol: tcp
 networks:
   local-network:
-    name: dockercompose8179606800467408021_local-network
+    name: dockercompose8284370771061449433_local-network
     driver: bridge
