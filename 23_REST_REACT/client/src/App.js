@@ -5,7 +5,9 @@ export default function App() {
   return(
     //JSX Javascript XML
     //<h1 >Hello World!</h1>
-    <Header title="Client REST"/>
+    <Header>
+      Client Rest
+    </Header>
   );
 
 }
