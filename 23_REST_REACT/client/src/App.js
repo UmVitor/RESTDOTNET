@@ -1,24 +1,11 @@
-import React, {useState} from 'react';
-import Header from './Header'
+import React from 'react';
+import './global.css'
+import Login from './Pages/Login';
 
 
-export default function App() {
-  // soh eh possivel alterar o valor com estadovi
-  const [counter, setCounter] = useState(0);
-  //Array [value, changeValueFunction]
-
-  function increment(){
-    setCounter(counter + 1);
-  }
+export default function App() {  
   return(
-    //JSX Javascript XML
-    //<h1 >Hello World!</h1>
-    <div> 
-      <Header>
-        Counter: {counter}
-      </Header>
-      <button onClick={increment}>Add</button>
-    </div>
+    <Login/>
   );
 
 }
