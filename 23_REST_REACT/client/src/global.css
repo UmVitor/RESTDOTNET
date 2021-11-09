@@ -43,8 +43,9 @@ form input {
     text-align: center;
     text-decoration: none;
     font-size: 18px;
+    transition: filter 0.2s;
     line-height: 60px;
-    transition: filter 0.2s;    
+   
 }
 
 .button:hover {
